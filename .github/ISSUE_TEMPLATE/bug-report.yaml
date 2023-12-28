@@ -45,7 +45,6 @@ body:
     value: |
         - OS:
         - Architecture:
-    render: markdown
   validations:
     required: false
 - type: textarea
